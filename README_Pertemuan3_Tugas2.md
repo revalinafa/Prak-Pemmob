@@ -1,5 +1,9 @@
 **File hasil running program = https://drive.google.com/file/d/1vRPCSrdaqhAWsMkhSDh5wgXEqkbtLwO4/view?usp=sharing**
 
+
+https://github.com/user-attachments/assets/feed0aa7-370e-4a1b-bfc1-bc29739863a3
+
+
 # 📱 Praktikum Pemrograman Mobile – Pertemuan 2  
 ### **View Binding & Navigasi**
 
