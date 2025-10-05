@@ -7,7 +7,7 @@
 
 ---
 
-Repositori ini berisi kumpulan proyek dari praktikum **Pemrograman Mobile** yang mencakup konsep-konsep dasar hingga arsitektur modern dalam pengembangan aplikasi Android menggunakan **Kotlin**.
+Repositori ini berisi kumpulan proyek dari praktikum **Pemrograman Mobile** dalam pengembangan aplikasi Android menggunakan **Kotlin**.
 
 ---
 
@@ -53,10 +53,22 @@ Pada pertemuan ini, proyek dikembangkan lebih lanjut dengan menerapkan **Fragmen
 **[Lihat Hasil Running Tugas 2 Pertemuan 3](https://drive.google.com/file/d/1vRPCSrdaqhAWsMkhSDh5wgXEqkbtLwO4/view?usp=sharing)**  
 
 
+https://github.com/user-attachments/assets/cd6aad7b-3656-4b74-80a7-930807ecb44d
+
+
+
 **[Lihat Hasil Running Tugas 3 Pertemuan 4](https://drive.google.com/file/d/1qzp7jAKItPxSf1q6zFF_-gKTONcyncie/view?usp=sharing)**  
 
 
+https://github.com/user-attachments/assets/53a6b092-2527-4920-aa96-a385a96cd1ce
+
+
+
 **[Lihat Hasil Running Tugas 4 Pertemuan 5](https://drive.google.com/file/d/1Cmh2v6eQItxpOpzHcGKfPJqrKBAtOafB/view?usp=sharing)**  
+
+
+https://github.com/user-attachments/assets/68f92c8d-8ccb-4f91-9b41-c44df274cfc2
+
 
 ---
 
